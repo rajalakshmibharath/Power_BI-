@@ -1,4 +1,4 @@
-# Zomato_EDA
+# Zomato EDA
 
 ## Introduction
 The dataset is about Zomato restaurants. It is taken from Kaggle, where data has been collected from the Zomato API.
